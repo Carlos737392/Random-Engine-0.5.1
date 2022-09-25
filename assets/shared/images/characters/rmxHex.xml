@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rmxHex.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AAAAAA instance 10000" x="2021" y="10" width="478" height="857" frameX="-67" frameY="0" frameWidth="545" frameHeight="814"/>
+	<SubTexture name="AAAAAA instance 10001" x="2497" y="31" width="483" height="798" frameX="-52" frameY="-36" frameWidth="545" frameHeight="814"/>
+	
+    <SubTexture name="FUCK U instance 10000" x="2216" y="1044" width="782" height="566" frameX="-2" frameY="-44" frameWidth="806" frameHeight="572"/>
+	<SubTexture name="FUCK U instance 10001" x="3000" y="1057" width="723" height="572" frameX="0" frameY="-19" frameWidth="806" frameHeight="572"/>
+	
+<SubTexture name="Ilde instance 10000" x="0" y="40" width="527" height="754" frameX="0" frameY="-26" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10001" x="0" y="40" width="527" height="754" frameX="0" frameY="-26" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10002" x="527" y="38" width="456" height="767" frameX="0" frameY="-26" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10003" x="527" y="38" width="456" height="767" frameX="0" frameY="-26" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10004" x="982" y="40" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10005" x="982" y="40" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10006" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10007" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10008" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10009" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10010" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10011" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10012" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+<SubTexture name="Ilde instance 10013" x="1427" y="35" width="448" height="767" frameX="-1" frameY="-4" frameWidth="482" frameHeight="751"/>
+
+    <SubTexture name="LEFT instance 10000" x="3185" y="100" width="776" height="767"/>
+	<SubTexture name="LEFT instance 10001" x="46" y="920" width="705" height="671" frameX="-69" frameY="-38" frameWidth="727" frameHeight="651"/>
+	
+    <SubTexture name="jefheziuoghz instance 10000" x="926" y="1069" width="588" height="505" frameX="0" frameY="-104" frameWidth="575" frameHeight="578"/>
+	<SubTexture name="jefheziuoghz instance 10001" x="1516" y="1067" width="551" height="547" frameX="-14" frameY="-61" frameWidth="575" frameHeight="578"/>
+</TextureAtlas>
