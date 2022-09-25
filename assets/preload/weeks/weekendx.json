@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Cooling",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Detected",
+			"hex-g-bruh",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "weekendx",
+	"difficulties": "Funky",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Weekend X",
+	"weekName": "Weekend X",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

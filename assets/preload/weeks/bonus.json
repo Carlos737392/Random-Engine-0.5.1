@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Glitcher-Remix",
+			"hex-g-bruh",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Java",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"LCD",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Funky",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

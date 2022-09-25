@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"Dunk",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ram",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Hello-World",
+			"hex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Glitcher",
+			"hex-g",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "weekx",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Week X",
+	"weekName": "Week X",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
