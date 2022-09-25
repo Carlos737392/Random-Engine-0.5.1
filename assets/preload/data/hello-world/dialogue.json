@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cut10",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another great round! Vibing levels are off the charts!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut10",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, too bad the sun is gone now, and it's getting late."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut10",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Should we get going?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut11",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Probably, maybe i should call my parents that i'll be home soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut11",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aren't you an adult already?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut11",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You should know more than anyone my parents worry too much."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut12",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry to bust in but are you up for another round?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut12",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm, i dunno, like i said it will be night soon so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut12",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pretty please? I will be a very happy bot if you say yes!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut12",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mmmmmmmm, fine. Just this once."
+		}
+	]
+}
