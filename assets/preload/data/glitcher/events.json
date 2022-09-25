@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "glitcher",
+		"player1": "glitcherbf",
+		"player2": "glitcherhex-virus",
+		"player3": null,
+		"events": [
+			[
+				49285.7142857143,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfpng"
+					]
+				]
+			],
+			[
+				49367.1428571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"wirehex-virus"
+					]
+				]
+			],
+			[
+				49369.2857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"wirebf"
+					]
+				]
+			],
+			[
+				49371.4285714286,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				70941.4285714286,
+				[
+					[
+						"Change Character",
+						"2",
+						"glitchergf"
+					]
+				]
+			],
+			[
+				70954.2857142857,
+				[
+					[
+						"Change Character",
+						"1",
+						"glitcherhex-virus"
+					]
+				]
+			],
+			[
+				70967.1428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"glitcherbf"
+					]
+				]
+			],
+			[
+				70971.4285714286,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93171.4285714285,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfpng"
+					]
+				]
+			],
+			[
+				93246.4285714285,
+				[
+					[
+						"Change Character",
+						"1",
+						"wirehex-virus"
+					]
+				]
+			],
+			[
+				93252.857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"wirebf"
+					]
+				]
+			],
+			[
+				93257.1428571428,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				114085.714285714,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfpng"
+					]
+				]
+			],
+			[
+				114162.857142857,
+				[
+					[
+						"Change Character",
+						"1",
+						"glitcherhex-virus"
+					]
+				]
+			],
+			[
+				114169.285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"glitcherbf"
+					]
+				]
+			],
+			[
+				114171.428571428,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "glitchergf",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Glitcher"
+	}
+}

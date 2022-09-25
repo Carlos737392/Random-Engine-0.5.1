@@ -1,0 +1,235 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cut13",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huff.. puff... wow we spent a whole day on this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut13",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aren't you tired?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut13",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nope! Not yet at least."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut13",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My battery is solar-based so i'm saving energy at nights!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut13",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pff, lucky you then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut14",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm tired though... I think we should go now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut15",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I agree."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut15",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, see ya around Hex!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut16",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, it was very fun! Good night-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut17",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BZZZZZZZZZZT-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut18",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "H-Huh? Hex?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut18",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Uh oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut18",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think we might have a problem..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut18",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What problem?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut19",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I probably used too much processing power and let my guard down..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut19",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Something might have passed my defenses, which means..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut20",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There might be a virus inside of me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut20",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? Wait, isn't that like, dangerous to\\nmachines?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut20",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "VERY dangerous.... oh no."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut21",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think it wants to take control over the system."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut21",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shoot... can't you do something to prevent that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut21",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I... don't think i can... but."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut21",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait. Maybe you can."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut22",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut22",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Grab my mic and fight that thing off!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut22",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you order the system to input enough mic patterns it might crash."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut22",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then i'll enter sleep mode and run a safety scan which will kill that thing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut23",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please! You're my only hope right now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut23",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut24",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Alright Hex, i'll try. I'm not leaving you behind."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut24",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut25",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut26",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...I'm always ready."
+		}
+	]
+}

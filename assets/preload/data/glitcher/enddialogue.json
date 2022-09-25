@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "unlockscreen1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}
