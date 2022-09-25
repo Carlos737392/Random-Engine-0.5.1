@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cut7",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aww yea! That was funky indeed!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut7",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mhm! Impressive as always."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut7",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I agree. We really maximized the amount of fun we could've possibly had!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut7",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about another round?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm... what do you think?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't mind it really..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut8",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The sun is setting down so we have a nice vibe for another round."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're right!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bring it on Hex!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut9",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My circuits are ready!"
+		}
+	]
+}
