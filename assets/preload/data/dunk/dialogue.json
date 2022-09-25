@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Geez... That was intense. Have you seen his face?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, it was very uh.... 'ballistic'."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "At least now we can go to the park like we originally intended!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mhm!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, i really had fun during all those weeks spent with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm glad you did..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Makes me wonder who will be next to challenge you, pff."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hopefully no one anytime soon, i'm tired..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you perhaps up for a game or two?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhh... sorry dude, i'm not really good at\\nbasketball."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, no no, I meant like, you know, the\\nmicrophone."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Maybe then- Wait a minute."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you another guy that's not cool with me dating her?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? No, where did that come from?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just thought it would be fun to use my\\nmicrophone after a long time!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm... he does seem chill, what do you think?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If it's gonna be just for fun then I'm up for it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready then... uh... what's your name?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hex! I'm always ready!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cut6",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright Hex, let's funk!"
+		}
+	]
+}
