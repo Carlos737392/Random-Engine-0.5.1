@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "glitcher-remix",
+		"player1": "bf-wd",
+		"player2": "hex_superCrazy",
+		"player3": null,
+		"events": [
+			[
+				47989.5833333333,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfpng"
+					]
+				]
+			],
+			[
+				47991.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"rmxHex"
+					]
+				]
+			],
+			[
+				47995.8333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"rmxBF"
+					]
+				]
+			],
+			[
+				47997.9166666667,
+				[
+					[
+						"Flash",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				69316.6666666667,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-wd"
+					]
+				]
+			],
+			[
+				69320.8333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"hex_superCrazy"
+					]
+				]
+			],
+			[
+				69327.0833333334,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-wd"
+					]
+				]
+			],
+			[
+				69331.25,
+				[
+					[
+						"Flash",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				69333.3333333334,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90650,
+				[
+					[
+						"Change Character",
+						"2",
+						"gfpng"
+					]
+				]
+			],
+			[
+				90652.0833333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"rmxHex"
+					]
+				]
+			],
+			[
+				90660.4166666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"rmxBF"
+					]
+				]
+			],
+			[
+				90664.5833333333,
+				[
+					[
+						"Flash",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				111993.75,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-wd"
+					]
+				]
+			],
+			[
+				111995.833333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"hex_superCrazy"
+					]
+				]
+			],
+			[
+				111997.916666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-wd"
+					]
+				]
+			],
+			[
+				112002.083333333,
+				[
+					[
+						"Flash",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				112014.583333333,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-wd",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "glitcher-remix"
+	}
+}
