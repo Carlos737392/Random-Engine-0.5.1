@@ -1,0 +1,375 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf_welcome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*gasp* BF! Over here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_welcome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Hi babe, sorry for being late, traffic's being wacky today."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nevermind all that, i'm just glad you're here now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way, have you seen what the show's gonna be about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_shrug1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, pretty bold of your dad to invite people he screwed over."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_wonder1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then again, he promised money for the prizes so folks might turn a blind eye."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_think2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea about that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_cross1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Earlier someone asked me if you could help them with a stage performace today."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? Who?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_cross2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y'know the tall robot guy that played sports, what was his name again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_reassure2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gex...? Apex........?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_neutral2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hex?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_think2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea! That guy! Honestly, I'm up for you doing it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_excited",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That would be your TV debut! The whole nation would see my boyfriend's fresh skills!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_think2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The whole nation...? I dunno, are folks all around the country ready for my flow'n stuff?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_reassure1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're overthinking this, who cares if some boomers won't like you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Besides, these people would be way more shocked by the living robot anyways."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_point1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm, you're right! I'm gonna show you and tons of people of what i'm made of!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_shrug2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now, where's Hex?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_cross2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhh, he should be in his waiting room probably. I think it's on the 16th floor."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_neutral2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll head out then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_think3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh yeah, hold up, what about... y'know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_reassure1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dad? Ah, don't worry."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll convince him. It should go smoothly."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_affirm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, good. Well, see ya later babe!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_welcome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See ya!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm. Maybe I should harmonize at this part of the song with him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_hip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...That is if he agrees to perform with me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_welcome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_neutral2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Hex, you're here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_excited",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*gasp* Boyfriend! You're here, so that means... you wanna perform with me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_shrug2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea! Nothing wrong with wanting to help a buddy in need. Can't wait actually!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But, how did the whole thing even happen? How were you invited?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_explain1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, seems like Mr. Dearest somehow had seen our battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_think2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He took notice of my music and he wanted for me to perform here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_shrug1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not surprised at all he knows about everything involving me and GF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_point1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kinda creepy actually. Either way, it's cool that your here now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_wonder2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, what's the song we're gonna do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_paper1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, right! Here's the pattern sheet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_paper2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We can edit it if there's anything you don't like."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_paper1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmm... Okay.... Alright.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_paper2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looks good to me! I'm sure it will sound great with the music added!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_hip2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice! That makes me a very happy bot."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_think1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y'know, i'm wondering though. What about you and your b-ball carrer?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_basketball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's not going anywhere. I hold baskbetball dearly to my processor."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_explain2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just don't wanna be stuck in one place."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_excited",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I wanna try and expierience while I have the occasion!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_shy1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's what my best friend said to me once..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_affirm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Y'know, for a robot, you're very much a\\nhuman. And a good person too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There you are! The show's starting soon, you better get ready."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_welcome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll be there soon, thanks for the info babe!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_cool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well? Are you ready?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hx_cool",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm always ready."
+		}
+	]
+}
